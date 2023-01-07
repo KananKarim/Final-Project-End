@@ -1,0 +1,47 @@
+.selected-page {
+    background-color: green;
+  }
+
+.main-page{
+    background-color: black;
+    color: white;
+    
+}
+  
+  .pages button {
+    border: none;
+    width: 30px;
+    height: 30px;
+  }
+  
+  .pages {
+    margin-top: 10px;
+    margin-left: 40vw;
+    width: 200px;
+  }
+  
+  .pages-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .pages-buttons:hover{
+    transition: 0.5s;
+    cursor: pointer;
+  }
+
+  .pages button:hover{
+    background-color: blue;
+
+  }
+  
+  .bottom {
+    margin-top: 30px;
+    padding-bottom: 100px;
+  }
+  
+  .top {
+    padding-top: 20px;
+    margin-bottom: -10px;
+  } 

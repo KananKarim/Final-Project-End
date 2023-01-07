@@ -1,0 +1,19 @@
+.buy-sell {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    min-height: 400px;
+    max-height: 400px;
+    padding-left: 55px;
+}
+
+.buy-sell-select, .coins-count-input, .coins-price {
+    font-size: 25px;
+    max-width: 250px;
+} 
+
+.coins-price {
+    outline: none;
+    border: none;
+} 

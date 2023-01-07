@@ -1,0 +1,21 @@
+.search-line {
+    width: 30%;
+    margin-top: 3px;
+}
+
+.search-line-input {
+    font-size: 20px;
+    width: 100%;
+    outline: none;
+    padding: 5px 0px 5px 10px;
+    border-radius: 5px;
+
+}
+
+.search-line-submit {
+    font-size: 18px;
+    margin: 10px 0px 0px 10px;
+    color: #FFEEDB;
+    border: none;
+    background-color: #1C1D21;
+} 

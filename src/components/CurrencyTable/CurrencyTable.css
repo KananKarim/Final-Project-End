@@ -1,0 +1,66 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 50px;
+  margin-left: 10vw;
+}
+
+tr {
+  border-bottom: 1px solid #ece6e6;
+}
+
+th {
+  padding: 10px;
+  text-align: center;
+}
+
+.currency-table {
+  width: 80%;
+}
+
+.table-image {
+  height: 25px;
+  width: 25px;
+  margin-top: 11px;
+}
+
+.table-symbol {
+  color: lightgray;
+  font-weight: 200px;
+}
+
+.td-coin {
+  margin-left: 10px;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 25px;
+}
+
+td {
+  text-align: center;
+}
+
+.index {
+  text-align: center;
+}
+
+.green-td {
+  color: green;
+}
+
+.red-td {
+  color: red;
+}
+
+.td-schedule {
+  width: 300px;
+  height: 100px;
+}
+
+.star-img {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}

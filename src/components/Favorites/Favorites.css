@@ -1,0 +1,29 @@
+.favorites-star {
+    width: 25px;
+    margin-top: -5px;
+}
+
+.favorites-img {
+    width: 35px;
+    height: 35px;
+}
+
+.favorites {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.favorites-li,.favorites-info-li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.favorites-info-li {
+    width: 80%;
+}

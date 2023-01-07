@@ -1,0 +1,27 @@
+.search-answer {
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 20%;
+    min-height: 400px;
+    max-height: 400px;
+    right: 24.5%;
+    overflow-y: scroll;
+    border-radius: 0px 10px;
+    color: black;
+}
+
+.search-none {
+    display: none;
+}
+
+.result {
+    margin: 10px 0px 5px 20px;
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+}
+
+.result-img {
+    width: 25px;
+    height: 25px;
+}
